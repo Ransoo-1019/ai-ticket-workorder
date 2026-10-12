@@ -2,5 +2,8 @@ config.js
 存档/
 node_modules/
 .DS_Store
-avatar.jpg
 v1 文本 api.txt
+
+# Spring Boot 后端
+backend/target/
+backend/src/main/resources/application.properties
